@@ -9,12 +9,6 @@
   box-shadow: 0 8px 24px rgba(0,0,0,0.2);
   line-height: 1.7;
   ">
-  <h1 style="color: #61dafb; font-weight: 700; margin-bottom: 1rem; border-bottom: 2px solid #61dafb; padding-bottom: 0.5rem;">
-    Understanding PostgreSQL: Key Concepts Made Simple
-  </h1>
-  <p>
-    If you've ever dabbled in the world of databases, you've probably come across <strong>PostgreSQL</strong> — one of the most popular and powerful open-source relational database management systems (RDBMS). But what exactly is PostgreSQL, and what are some fundamental concepts you should know? Let’s break it down in an easy, conversational way.
-  </p>
   
   <h2 style="color: #81d4fa; margin-top: 2rem;">What is PostgreSQL?</h2>
   <p>
